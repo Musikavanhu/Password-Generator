@@ -1,0 +1,1 @@
+This homework was interesting I tried my best to complete it. I'm currently going through the death of a loved one sadly on my birthday. I did my best to try to have the alert be the main UI but proceeding forward had difficulties transferring the data and restarting the prompt to have the password display the information containing the new generated password. 
